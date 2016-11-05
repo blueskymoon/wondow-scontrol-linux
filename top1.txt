@@ -1,0 +1,7 @@
+1.sudo apt-get install xrdp
+2.sudo apt-get install vnc4server
+3.sudo apt-get install xubuntu-desktop
+4.sudo "xfce4-session">~/.xession
+5.sudo service xrdp restart
+
+
